@@ -1,0 +1,6 @@
+Writing objects: 100% (3/3), 296 bytes | 296.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote:
+remote: Create a pull request for 'new-files' on GitHub by visiting:
+remote:      https://github.com/Borolgine/test-repo/pull/new/new-files

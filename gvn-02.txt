@@ -1,0 +1,14 @@
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote:
+remote: Create a pull request for 'new-files' on GitHub by visiting:
+remote:      https://github.com/Borolgine/test-repo/pull/new/new-files
+remote:
+To https://github.com/Borolgine/test-repo.git
+ * [new branch]      new-files -> new-files
+PS C:\Users\Bohr\Desktop\edu-src\test-repo> git merge new_files      
+Already up to date.
+PS C:\Users\Bohr\Desktop\edu-src\test-repo> git pull origin main     
+From https://github.com/Borolgine/test-repo
+ * branch            main       -> FETCH_HEAD
+Already up to date.
